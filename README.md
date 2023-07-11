@@ -7,6 +7,7 @@ depositing/ withdrawing cash, transactions through cash, NEFT, cheques,
 etc.
 => **Sub modules:**
 We have prepared the following modules:
+
 _1. Bank details:_
 a) Bank name
 b) Branch of the bank
