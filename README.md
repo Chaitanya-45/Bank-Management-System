@@ -1,5 +1,5 @@
 # Bank-Management-System
-Basic code on Bank Management system in C using basic concepts of structures and strings.
+A very basic code on Bank Management system in C using basic concepts of structures and strings.
 
 => **Description:**
 The bank management system is an application for maintaining a person’s account in a bank. It deals with creation of an account, 
@@ -7,7 +7,7 @@ depositing/ withdrawing cash, transactions through cash, NEFT, cheques,
 etc.
 
 => **Sub modules:**
-We have prepared the following modules:
+The following modules exist in the project:
 
 _1. Bank details:_
 a) Bank name
