@@ -1,5 +1,7 @@
 # Bank-Management-System
-A very basic code on Bank Management system in C using basic concepts of structures and strings.
+I've basically created 2 versions of the same project -
+(1) A very basic code in C using basic concepts of structures and strings.
+(2) A code using data structures (in C)
 
 => **Description:**
 The bank management system is an application for maintaining a person’s account in a bank. It deals with creation of an account, 
